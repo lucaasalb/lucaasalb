@@ -9,8 +9,8 @@
 ---
 
 ## 🧠 Atualmente estudando
-- 📘 **Linguagens Formais e Autômatos**
-- 💡 **Estruturas de Dados com C**
+- 📘 **Sistemas Operacionais**
+- 💡 **Estruturas de Dados com Java**
 - 🔧 Melhorando habilidades em **Java** e **Python**
 - ⏳ Potencializando a utilização de **HTML** e **CSS** nos meus projetos
 
