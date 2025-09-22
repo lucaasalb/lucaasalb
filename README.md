@@ -10,7 +10,10 @@
 
 ## 🧠 Atualmente estudando
 - 📘 **Sistemas Operacionais**
+- 🏦 **Banco de Dados I**
 - 💡 **Estruturas de Dados com Java**
+- ⚡ **Circuitos Digitais**
+- ⚙️ **Processos de Desenvolvimento de Software**
 - 🔧 Melhorando habilidades em **Java** e **Python**
 - ⏳ Potencializando a utilização de **HTML** e **CSS** nos meus projetos
 
